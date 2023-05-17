@@ -1,0 +1,45 @@
+
+body{
+background-position:center;
+background-color:powderblue;
+background-size:cover;
+text-align:center;
+}
+
+img{
+width:100px;
+height:100px;
+}
+
+h3{
+color:#5b5e97;
+}
+
+
+ul li{
+	display:inline-block;	
+	font-size:100%;
+	padding:50px;
+	border:.50px solid black;
+	background-color:#D29C9C;
+}
+
+ul{
+	text-align:center;
+}
+
+a{
+	color:black;
+}
+
+h1{
+	display:inline-block;
+	font-size:500%;
+background-color:grey;	
+padding:60px;
+color:purple;
+  font: 180% cursive; 
+  font-size: 2em;
+}
+	
+
